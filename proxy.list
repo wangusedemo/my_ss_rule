@@ -6,31 +6,36 @@
 # ----------------------------------------------------
 
 # Netflix
-DOMAIN-SUFFIX, netflix.com
-DOMAIN-SUFFIX, netflix.net
-DOMAIN-SUFFIX, nflximg.net
-DOMAIN-SUFFIX, nflxvideo.net
+domain-suffix, netflix.com
+domain-suffix, netflix.net
+domain-suffix, nflximg.net
+domain-suffix, nflxvideo.net
 
 # Disney+ & Hulu (部分服务共享域名)
-DOMAIN-SUFFIX, disneyplus.com
-DOMAIN-SUFFIX, hulu.com
-DOMAIN-SUFFIX, huluim.com
+domain-suffix, disneyplus.com
+domain-suffix, hulu.com
+domain-suffix, huluim.com
 
 # HBO Max
-DOMAIN-SUFFIX, hbomax.com
-DOMAIN-SUFFIX, hbo.com
+domain-suffix, hbomax.com
+domain-suffix, hbo.com
 
 # Spotify
-DOMAIN-SUFFIX, spotify.com
-DOMAIN-SUFFIX, spotifycdn.com
-DOMAIN-SUFFIX, akamaihd.net
+domain-suffix, spotify.com
+domain-suffix, spotifycdn.com
+domain-suffix, akamaihd.net
 
 # Amazon Prime Video (部分关键域名)
-DOMAIN-SUFFIX, primevideo.com
-DOMAIN-SUFFIX, media-amazon.com
+domain-suffix, primevideo.com
+domain-suffix, media-amazon.com
 
 # Google 及其相关服务 (用于通用代理)
-DOMAIN-SUFFIX, google.com
+domain-suffix, google.com
+domain-suffix,googleapis.com
+domain-suffix,gstatic.com
+domain-suffix,googlevideo.com
+domain-suffix,youtube.com
+domain-suffix,ytimg.com
 
 # chatgpt
 chatgpt.com
