@@ -31,3 +31,8 @@ DOMAIN-SUFFIX, media-amazon.com
 
 # Google 及其相关服务 (用于通用代理)
 DOMAIN-SUFFIX, google.com
+
+# chatgpt
+chatgpt.com
+
+#gemini
