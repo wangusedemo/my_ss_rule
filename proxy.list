@@ -38,6 +38,7 @@ domain-suffix,youtube.com
 domain-suffix,ytimg.com
 
 # chatgpt
-chatgpt.com
+domain-suffix,chatgpt.com
 
-#gemini
+#v2ex
+domain-suffix,v2ex.com
