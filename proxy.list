@@ -42,3 +42,6 @@ domain-suffix,chatgpt.com
 
 #v2ex
 domain-suffix,v2ex.com
+
+#其他
+domain-suffix,huggingface.co
