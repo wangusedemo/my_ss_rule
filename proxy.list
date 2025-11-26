@@ -30,5 +30,4 @@ DOMAIN-SUFFIX, primevideo.com
 DOMAIN-SUFFIX, media-amazon.com
 
 # Google 及其相关服务 (用于通用代理)
-DOMAIN-SUFFIX, gvt0.com
-DOMAIN-SUFFIX, gvt1.com
+DOMAIN-SUFFIX, google.com
