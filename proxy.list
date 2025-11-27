@@ -46,6 +46,7 @@ domain-suffix,v2ex.com
 
 #wiki
 domain-suffix,wikipedia.org
+domain-suffix,wikimedia.org
 
 #其他
 domain-suffix,huggingface.co
