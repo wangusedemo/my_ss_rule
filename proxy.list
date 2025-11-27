@@ -36,6 +36,7 @@ domain-suffix,gstatic.com
 domain-suffix,googlevideo.com
 domain-suffix,youtube.com
 domain-suffix,ytimg.com
+domain-suffix,googleusercontent.com
 
 # chatgpt
 domain-suffix,chatgpt.com
