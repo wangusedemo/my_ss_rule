@@ -39,6 +39,7 @@ domain-suffix,ytimg.com
 
 # chatgpt
 domain-suffix,chatgpt.com
+domain-suffix,openai.com
 
 #v2ex
 domain-suffix,v2ex.com
