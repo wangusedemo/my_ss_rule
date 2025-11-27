@@ -44,5 +44,8 @@ domain-suffix,openai.com
 #v2ex
 domain-suffix,v2ex.com
 
+#wiki
+domain-suffix,wikipedia.org
+
 #其他
 domain-suffix,huggingface.co
